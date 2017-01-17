@@ -1,0 +1,23 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaypeeig/React-project.git"
+  },
+  "author": "Jaypee Ignacio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaypeeig/React-project/issues"
+  },
+  "homepage": "https://github.com/jaypeeig/React-project#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
